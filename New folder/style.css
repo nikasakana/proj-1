@@ -1,0 +1,25 @@
+.service {
+	border: 3px solid black;
+	border-color:#0aa000; 
+	height:250px;
+	background-color: #cce6ff
+	
+}	
+.txt{
+	color:#0aa000;
+}
+.image-box{
+	width:100%;
+	background-image: url("qq.jpg");
+	height: 480px;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.services{
+	padding-top:10px;
+}
+.container-fluid{
+	padding-left:100px; 
+}
